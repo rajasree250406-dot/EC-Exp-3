@@ -6,9 +6,20 @@
 
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
+
+## CIRCUIT DIAGRAM
+
+<img width="1128" height="1600" alt="image" src="https://github.com/user-attachments/assets/afee1ad3-018f-42df-aa8c-48ef9b360836" />
+
 ## Tabulations
+
+<img width="799" height="1355" alt="image" src="https://github.com/user-attachments/assets/9aa60d11-25f3-4f03-b91f-990a85e9c871" />
+
 
 ## Graph
 
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
+
+## RESULT
+<img width="936" height="1510" alt="image" src="https://github.com/user-attachments/assets/4dfdaffe-a057-4b1b-97c6-70e2cc94377a" />
